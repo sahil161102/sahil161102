@@ -2,7 +2,7 @@
 - 👀 I’m interested in ML and AI
 - 🌱 I’m focusing on enhancing my skills in deep learning
 - 💞️ I’m looking for Intenship opportunities in machine learning
-- 📫 [Linkedin](https://www.linkedin.com/in/sahil-6b7874176/)
+- 📫 [Linkedin](https://www.linkedin.com/in/sahil-sahil-6b7874176/)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil161102&label=Profile%20views&color=0e75b6&style=flat" alt="sahil161102" /> </p>

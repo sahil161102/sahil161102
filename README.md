@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Sahil
-- 👀 I’m interested in ML and AI
+- 👋 Hi, I’m Sahil, Master Data Science @TU Dortmund
+- Ex AI Engineer @TiF AWADH, IIT Ropar
+- 👀 I’m interested in Computer Vision and Vision Language Transformers
 - 🌱 I’m focusing on enhancing my skills in deep learning
-- 💞️ I’m looking for Intenship opportunities in machine learning
 - 📫 [Linkedin](https://www.linkedin.com/in/sahil-sahil-6b7874176/)
 
 

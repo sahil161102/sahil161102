@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Sahil, Master Data Science @TU Dortmund
+- Working Student AI @BASF, Cologne
 - Ex AI Engineer @TiF AWADH, IIT Ropar
 - 👀 I’m interested in Computer Vision and Vision Language Transformers
 - 🌱 I’m focusing on enhancing my skills in deep learning
